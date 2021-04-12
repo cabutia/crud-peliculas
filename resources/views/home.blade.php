@@ -8,4 +8,5 @@
     <h1>Bienvenidos a DV Películas</h1>
 
     <p>Da Vinci con tu cuota ahora te ofrece acceso a múltiples películas de nuestro selecto catálogo.</p>
+    <p>Promocion valida hasta 2022.</p>
 @endsection
